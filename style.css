@@ -43,6 +43,13 @@ main p {
   margin: 10px;
 }
 
+.browngroup {
+  display: flex;
+  flex-direction: row;
+  background-color: #775e43;
+  margin: 10px;
+}
+
 @media all and (min-width: 800px) {
   section,
   h1{
